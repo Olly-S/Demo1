@@ -2,3 +2,31 @@
     padding: 0;
     margin: 0;
 }
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.BG-grey {
+    background-color: #3b3b3b;
+    color: #c4bebe;
+    padding: 15px 10px;
+}
+
+
+.font-size {
+    font-size: 12px;
+}
+
+.bildes-izmers img {
+    max-width: 100%;
+}
